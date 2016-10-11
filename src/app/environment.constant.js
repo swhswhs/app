@@ -1,0 +1,1 @@
+angular.module('app').constant('environment',{'a':12})
